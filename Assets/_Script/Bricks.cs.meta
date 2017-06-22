@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b86f993ca3b265848b1ff7e5fa966ce7
+timeCreated: 1496297534
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - HardBrick: {instanceID: 0}
+  - PositiveElement: {fileID: 1795317178579724, guid: c0bbb9912d2e02e449a1ae4962d98841,
+      type: 2}
+  - LineObject: {instanceID: 0}
+  - CircleObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
